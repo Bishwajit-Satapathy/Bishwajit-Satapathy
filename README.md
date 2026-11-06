@@ -1,4 +1,12 @@
+<div align="center">
+  <img
+    src="assets/github-hero.svg"
+    width="100%"
+    alt="Bishwajit Satapathy - Microsoft Power Platform Developer and Java Full Stack Developer"
+  />
+</div>
 
+<br/> 
 # Bishwajit Satapathy
 
 **Microsoft Power Platform Developer | Java Full Stack Developer**
